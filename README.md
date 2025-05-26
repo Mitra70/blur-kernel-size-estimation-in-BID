@@ -98,7 +98,6 @@ You can download it from the following Google Drive link:
 - The **Ref 18 Method** is **our own independent reimplementation** of the method described in Reference [18].
 - No original code was obtained from the authors of [18]; we re-implemented their method ourselves.
 - If you use or build upon this code, please **cite our paper**.
-- These codes are provided for **research and academic** purposes and may require adaptation for other applications or environments.
 
 ---
 
