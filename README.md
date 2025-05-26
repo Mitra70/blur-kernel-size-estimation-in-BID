@@ -7,11 +7,7 @@ This repository contains MATLAB implementations related to the research paper su
 
 ## ✍️ Authors  
 Mitra Abdollahi and Alireza Ahmadyfard  
-
-## 📧 Emails  
-mitra.abdollahi@shahroodut.ac.ir  
-ahmadyfard@shahroodut.ac.ir  
-
+ 
 ---
 
 ## 📖 Overview
