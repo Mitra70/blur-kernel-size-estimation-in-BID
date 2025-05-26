@@ -56,31 +56,31 @@ run('RUN_proposed.m')
 cd 'path_to/blur-kernel-size-estimation-in-BID/Ref 18 Method'
 run('RUN_Ref18.m')
 
-📂 Dataset:
+## 📂 Dataset:
 Due to size constraints in github (~2.4 GB), the dataset is not included here. Download it from:
 https://drive.google.com/file/d/17XcknkSf-L3OHNRi-TjLAOnN_lHbn8RH/view?usp=sharing
 
-Instructions:
+## Instructions:
 Download and extract the dataset.
 Place the extracted dataset folder inside the root directory of this repository.
 The dataset folder contains subfolders for different types of blur kernels and corresponding images used for training and testing.
 
-📚 Reference:
+## 📚 Reference:
 [18] S. Liu, H. Wang, J. Wang, and C. Pan, "Blur-Kernel Bound Estimation from Pyramid Statistics,"
 IEEE Transactions on Circuits and Systems for Video Technology, vol. 26, no. 5, pp. 1012-1016, May 2016.
 https://doi.org/10.1109/TCSVT.2015.2418585
 
-📢 Important Notes for Reviewers and Users:
+## 📢 Important Notes for Reviewers and Users:
 The Ref 18 Method is our own independent implementation of the approach described in Reference [18]; no original source code from the authors was available.
 Please cite our paper if you use or build upon this code.
 The codes were developed for research purposes and may require adaptation for other environments.
 
-⚖️ License and Copyright:
+## ⚖️ License and Copyright:
 This software is provided for academic and research use only.
 Redistribution, commercial use, or modification without proper citation is prohibited.
 Users must cite the original paper when using this code in their research.
 All rights reserved by the authors.
 
-📬 Contact:
+## 📬 Contact:
 For any questions, please contact:
 Mitra Abdollahi (mitra.abdollahi@shahroodut.ac.ir) or Alireza Ahmadyfard (ahmadyfard@shahroodut.ac.ir)
